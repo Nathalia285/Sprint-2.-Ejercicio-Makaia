@@ -1,0 +1,27 @@
+SPRINT 2 - E-COMMERCE FRONT 6:
+- Crear una lista de productos en json-server (Listo)
+
+- Exhibir los productos segun el diseño (productos traidos del json-server) (PENDIENTE)
+
+- Formulario de checkout en modal con almacenamiento en json server (nombre, cedula, tarjeta de credito). -PROFE EN CLASE
+
+-Mostrar artículos comprados al momento del pago. (PENDIENTE)
+
+- Uso de sweetalert: alerta de producto ingresado.(PENDIENTE)
+
+-Resumen de productos en ventana del carrito. Pop up (Camilo)
+
+- Filtrar los productos por collection - men - women en el header (Pendiente-medio hacer)
+
+JS: código para intercambiar las imágenes. (Pendiente)
+
+- implementacion del responsive (Pendiente)
+
+Pendientes:
+Que el botón de agregar artículos quede funcional.
+Que los botones de agregar número de artículos también
+Que las imágenes se cambien al dar clicl
+Acomododar la línea naranjada sobre el menú.
+Cuando se de clic sobre ella se debe mostrar un modal tipo carrusel que permita pasar entre todas las fotos grandes.
+Check out que va hacer la profe.
+
